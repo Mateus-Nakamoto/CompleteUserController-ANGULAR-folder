@@ -1,6 +1,6 @@
 # ControleANGULAR
 
-Need the project's Asp.net Folder*****
+Angular folder for UserController
 Make sure if it will run in https or http.
 
 <img width="878" alt="cadastro aspangular" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-ANGULAR-folder/assets/145996589/fdd100aa-1ff5-4951-baab-abdb25eef046">
