@@ -1,0 +1,32 @@
+<form #form="ngForm" (submit)="onSubmit(form)" [class.submitted]="service.formSubmitted" novalidate autocomplete="off">
+    <input type="hidden" name="pessoaID" [value]="service.formData.pessoaID">
+    <div class="mb-3">
+      <label>Nome Completo</label>
+      <input class="form-control form-control-lg" placeholder="Digite o Nome" #pessoaNome="ngModel" name="pessoaNome"
+        [(ngModel)]="service.formData.pessoaNome" required>
+    </div>
+    <div class="mb-3">
+      <label>E-mail</label>
+      <input class="form-control form-control-lg" placeholder="Digite o E-mail" #cardNumber="ngModel"
+        name="pessoaEmail" [(ngModel)]="service.formData.pessoaEmail" required>
+    </div>
+  
+    <div class="row">
+      <div class="mb-3 col-6">
+        <label>Telefone</label>
+        <input class="form-control form-control-lg" placeholder="(xx)-xxxxx xxxx" #securityCode="ngModel"
+          name="pessoaTelefone" [(ngModel)]="service.formData.pessoaTelefone" required>
+      </div>
+      <div class="mb-3 col-6">
+        <label>Nascimento</label>
+        <input class="form-control form-control-lg" placeholder="dd/mm/aaaa" #expirationDate="ngModel" name="pessoaDataNascimento"
+          [(ngModel)]="service.formData.pessoaDataNascimento" required>
+      </div>
+    </div>
+    <div class="d-grid">
+      <button class="btn btn-lg btn-success" type="submit">
+        Confirmar
+      </button>
+    </div>
+  
+  </form>
