@@ -1,27 +1,10 @@
 # ControleANGULAR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+Need the project's Asp.net Folder*****
 
-## Development server
+<img width="894" alt="cadastro aspangular" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-Asp-Angular16/assets/145996589/56c63e3a-4b0e-463a-bfea-97bbf3a1431b">
+<img width="696" alt="cadastro aspangular2" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-Asp-Angular16/assets/145996589/5314f496-bb44-4fef-b2ae-a2e3a6812e09">
+<img width="856" alt="cadastro aspangular3" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-Asp-Angular16/assets/145996589/78217dc5-4621-4368-bc89-ce230afbc778">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img width="528" alt="aspnet" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-Asp-Angular16/assets/145996589/3466d693-811f-4cae-9954-317bc99c4fd1">
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
