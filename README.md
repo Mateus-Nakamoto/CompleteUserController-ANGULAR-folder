@@ -1,6 +1,7 @@
 # ControleANGULAR
 
 Need the project's Asp.net Folder*****
+Make sure if it will run in https or http.
 
 <img width="878" alt="cadastro aspangular" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-ANGULAR-folder/assets/145996589/fdd100aa-1ff5-4951-baab-abdb25eef046">
 <img width="779" alt="Atualizadoaspangular3" src="https://github.com/Mateus-Nakamoto/CompleteUserControl-ANGULAR-folder/assets/145996589/1175da2f-14c2-42d1-a35d-8cb21c5fefae">
